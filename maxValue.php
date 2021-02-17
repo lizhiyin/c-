@@ -50,4 +50,4 @@ $bag = 50;
 $bag_value = 0;
 $res = maxValue($weights,$values,0,$bag,$bag_value);
 print_r($res);
-
+;
